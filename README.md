@@ -5,6 +5,7 @@ __本文档使用Microsoft Edge与Windows为例__
 
 请在使用本项目前安装 [__篡改猴__](https://microsoftedge.microsoft.com/addons/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/iikmkjmpaadaobahmlepeloendndfphd?hl=zh-CN) 扩展程序，并开启Microsoft Edge扩展程序的**开发人员模式**。
 
+您可以直接使用上述文字询问豆包等AI工具以获取具体操作方法。
 
 
 ## 大连海洋大学
