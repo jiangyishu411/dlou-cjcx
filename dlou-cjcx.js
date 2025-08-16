@@ -71,7 +71,7 @@
     }
 
     ele.click(function() {
-        const message = "此工具仅适用于大连海洋大学教务系统（正方教务系统V8.0）\n开发者：江易书 邮箱：jiangyishu@189.cn 主页：www.jiangyishu.cn";
+        const message = "此工具仅适用于大连海洋大学教务系统（正方教务系统V8.0）\n开发者：江易书 邮箱：jiangyishu@189.cn 主页：www.jiangyishu.cn\n项目地址：https://github.com/jiangyishu411/dlou-cjcx";
         showToast(message);
 
         function downFile(blob) {
@@ -112,3 +112,4 @@
 
     $('body').append(ele);
 })();
+
